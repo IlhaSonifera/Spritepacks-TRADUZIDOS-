@@ -8,7 +8,7 @@
 ### <p  align="center">✒ Como um novo passatempo, comecei a fazer traduções de spritepacks e submods feitos por estrangeiros. Esse repositório será um espaço para brasileiros que procuram bons complementos para o MAS, mas não encontram sprites no idioma que preferem. Espero que seja útil——bom proveito!</p>
 
 
-# Incluído em um release
+# Incluído no release
 - ### Rede de contato do criador
 - ### Créditos ao criador e tradutor
 - ### Arquivos .zip contendo a maior parte ou todo o conteúdo do criador
