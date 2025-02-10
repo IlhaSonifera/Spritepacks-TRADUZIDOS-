@@ -1,0 +1,28 @@
+{
+    "__author": "MAS DEV Team / MayJay / History",
+    "version": 3,
+    "type": 1,
+    "name": "mjrecolor_braided",
+    "img_sit": "mjrecolor_braided",
+    "pose_map": {
+        "mpm_type": 0,
+        "default": true,
+        "use_reg_for_l": true
+    },
+    "stay_on_start": true,
+    "ex_props": {
+        "ribbon": true,
+        "no-tails": true,
+        "tiedstrand": false
+    },
+    "select_info": {
+        "display_name": "Tranças Laterais (V2)",
+        "thumb": "mjrecolor_braided",
+        "group": "hair",
+        "visible_when_locked": true,
+        "select_dlg": [
+            "Que trança fofa!"
+        ]
+    },
+    "unlock": true
+}

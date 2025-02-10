@@ -1,0 +1,19 @@
+{
+    "__author": "MAS DEV Team / MayJay / History",
+    "version": 3,
+    "type": 1,
+    "name": "mjrecolor_down",
+    "img_sit": "mjrecolor_down",
+    "pose_map": {
+        "mpm_type": 0,
+        "default": true,
+        "use_reg_for_l": true
+    },
+    "stay_on_start": true,
+    "select_info": {
+        "display_name": "Cabelo Longo Solto (V2)",
+        "thumb": "mjrecolor_down",
+        "group": "hair"
+    },
+    "unlock": true
+}
