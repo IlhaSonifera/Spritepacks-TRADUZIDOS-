@@ -30,6 +30,9 @@
 # ✦ 📗 Servidor 🇧🇷 para mais traduções
 - Estamos abertos para conversar e receber pedidos de traduções de submods e spritepacks [aqui](https://discord.gg/bMPDaCVz).
 
+# ✦ 💌 Créditos
+- Agradeço aos criadores envolvidos e [u/bachxyh_](https://www.reddit.com/user/bachxyh_/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) que deu suporte para a permissão das traduções!
+
 
 
 
