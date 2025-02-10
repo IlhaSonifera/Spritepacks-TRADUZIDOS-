@@ -1,0 +1,4 @@
+ ## Olá! Apenas um conselho:
+
+ ### Eu NÂO recomendo baixar qualquer coisa diretamente do repositório se você quer um download organizado.
+ #### Priorize a página Release, onde você pode baixar os spritepacks separadamente e em boa performace.
