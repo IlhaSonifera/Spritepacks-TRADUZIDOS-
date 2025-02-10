@@ -2,6 +2,9 @@
 
 <p  align="center"><img src="https://github.com/user-attachments/assets/85efc5ae-86bc-4afb-8dbc-eababd6ce856" width="570" height="180" /></p>
 
+##### <p align="center">Arte feita por [shiro_burro](https://x.com/shiro_burro?t=LfPc_d3rNpHrdPVmngdz9g&s=09)</p>
+<p align="center">...</p>
+
 <p  align="center">A prioridade desse repositório são os spritepacks. Aqui estarão mantidas as versões traduzidas.</p>
 
 <p  align="center">📌Todas as traduções permitidas terão seus devidos créditos.</p>
