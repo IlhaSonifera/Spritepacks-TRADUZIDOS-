@@ -24,7 +24,7 @@
 # ✦ 📁 Instalação
 - #### Baixe os spritepacks desejados na aba Releases
 - #### Abra os arquivos .zip com um programa que permita isso (Ex. Winrar, Winzip, 7zip)
-- #### Mova as pastas incluídas para o diretório e mescle-a
+- #### Mova as pastas incluídas para o diretório do MAS e mescle-as
 - #### Abra o MAS e deixe Monika alegre com as novas opções!
 
 # ✦ 📗 Servidor 🇧🇷 para mais traduções
