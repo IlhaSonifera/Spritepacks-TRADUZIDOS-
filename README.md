@@ -11,7 +11,7 @@
 # Incluído em um release
 - ### Arquivos .zip contendo a maior parte ou todo o conteúdo do criador
 - ### Rede de contato do criador
-- ### Créditos
+- ### Créditos ao criador e tradutor
 
 
 
