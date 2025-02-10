@@ -1,6 +1,6 @@
 # <p align="center">✦ Spritepacks TRADUZIDOS 🇧🇷</p>
 
-<p  align="center"><img src="https://github.com/user-attachments/assets/6ec5e2ff-2cb0-4960-b1c1-fccfbf5e1742" width="570" height="180" /></p>
+<p  align="center"><img src="https://github.com/user-attachments/assets/85efc5ae-86bc-4afb-8dbc-eababd6ce856" width="570" height="180" /></p>
 
 <p  align="center">A prioridade desse repositório são os spritepacks. Aqui estarão mantidas as versões traduzidas.</p>
 
