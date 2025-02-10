@@ -9,9 +9,9 @@
 
 
 # Incluído em um release
-- ### Arquivos .zip contendo a maior parte ou todo o conteúdo do criador
 - ### Rede de contato do criador
 - ### Créditos ao criador e tradutor
+- ### Arquivos .zip contendo a maior parte ou todo o conteúdo do criador
 
 
 
