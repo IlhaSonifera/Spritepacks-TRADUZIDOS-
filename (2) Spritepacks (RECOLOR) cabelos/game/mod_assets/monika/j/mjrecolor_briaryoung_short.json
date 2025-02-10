@@ -1,0 +1,19 @@
+{
+    "__author": "Briar Young / MayJay / History",
+    "version": 3,
+    "type": 1,
+    "name": "mjrecolor_briaryoung_short",
+    "img_sit": "mjrecolor_briaryoung_short",
+    "pose_map": {
+        "mpm_type": 0,
+        "default": true,
+        "use_reg_for_l": true
+    },
+    "stay_on_start": true,
+    "select_info": {
+        "display_name": "Corte Pixie (V2)",
+        "thumb": "mjrecolor_briaryoung_short",
+        "group": "hair"
+    },
+    "unlock": true
+}
