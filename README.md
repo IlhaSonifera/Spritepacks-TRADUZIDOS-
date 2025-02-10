@@ -14,7 +14,7 @@
 
 # ✦ 📝 O que muda na tradução
 
-- #### A palavra que a Monika usa para descrever o presente ao receber
+- #### A palavra que a Monika usa para descrever o presente ao recebê-lo
    - Ex. Monika pode reagir com "Obrigada por esse nailpolish!" ao invés de "Obrigada por esse esmalte!" se não há tradução.
 - #### Nome de cada item e as reações da Monika ao selecionar
 
