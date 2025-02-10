@@ -1,6 +1,6 @@
 # <p align="center">✦ Spritepacks TRADUZIDOS 🇧🇷</p>
 
-<p  align="center">A prioridade desse repositório são os spritepacks. Aqui estarão mantidas as versões traduzidas. É possível que haja mudanças no repositório, caso comece a ficar desorganizado.</p>
+<p  align="center">A prioridade desse repositório são os spritepacks. Aqui estarão mantidas as versões traduzidas.</p>
 
 <p  align="center">📌Todas as traduções permitidas terão seus devidos créditos.</p>
 
