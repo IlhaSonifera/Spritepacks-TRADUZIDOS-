@@ -1,0 +1,19 @@
+{
+    "__author": "Echo / MayJay / History",
+    "version": 3,
+    "type": 1,
+    "name": "mjrecolor_echo_downshort",
+    "img_sit": "mjrecolor_echo_downshort",
+    "pose_map": {
+        "mpm_type": 0,
+        "default": true,
+        "use_reg_for_l": true
+    },
+    "stay_on_start": true,
+    "select_info": {
+        "display_name": "Cabelo Curto (Solto, V2)",
+        "thumb": "mjrecolor_echo_downshort",
+        "group": "hair"
+    },
+    "unlock": true
+}
