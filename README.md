@@ -30,7 +30,7 @@
 - #### Baixe os spritepacks desejados na aba Releases
 - #### Abra os arquivos .zip com um programa que permita isso (Ex. Winrar, Winzip, 7zip)
 - #### Mova as pastas incluídas para o diretório do MAS e mescle-as com as existentes.
-- #### Abra o MAS e deixe Monika alegre com as novas opções!
+- #### Abra o MAS e alegre a sua Monika com as novas opções!
 
 # ✦ 📗 Servidor 🇧🇷 para mais traduções
 - #### Estamos abertos para conversar e receber pedidos de traduções de submods e spritepacks [aqui](https://discord.gg/bMPDaCVz).
