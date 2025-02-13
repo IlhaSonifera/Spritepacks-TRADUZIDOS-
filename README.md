@@ -5,7 +5,7 @@
 ##### <p align="center">Arte feita por [shiro_burro](https://x.com/shiro_burro?t=LfPc_d3rNpHrdPVmngdz9g&s=09)</p>
 <p align="center">...</p>
 
-<p  align="center">A prioridade desse repositório são os spritepacks. Aqui serão mantidas as versões traduzidas.</p>
+<p  align="center">A prioridade deste repositório são os spritepacks. Aqui serão mantidas as versões traduzidas.</p>
 
 <p  align="center">📌Todas as traduções permitidas terão seus devidos créditos.</p>
 
