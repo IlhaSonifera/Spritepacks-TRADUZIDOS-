@@ -7,7 +7,7 @@
 
 <p  align="center">A prioridade deste repositório são os spritepacks. Aqui serão mantidas as versões traduzidas.</p>
 
-<p  align="center">📌Todas as traduções permitidas terão seus devidos créditos.</p>
+<p  align="center">📌Todas as traduções permitidas terão os devidos créditos.</p>
 
 <p  align="center">⊹˚₊ ∘☾༺✦༻☽∘ ₊˚⊹</p>
 
