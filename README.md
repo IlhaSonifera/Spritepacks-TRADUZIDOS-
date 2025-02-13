@@ -37,6 +37,7 @@
 
 # ✦ 💌 Créditos
 - Agradeço aos criadores envolvidos e [u/bachxyh_](https://www.reddit.com/user/bachxyh_/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) que deu suporte para a permissão das traduções!
+- Créditos ao [shiro_burro](https://x.com/shiro_burro?t=LfPc_d3rNpHrdPVmngdz9g&s=09) por disponibilizar sua arte para uso no repositório.
 
 
 
