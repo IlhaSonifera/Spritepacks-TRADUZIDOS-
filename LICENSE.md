@@ -6,10 +6,10 @@ As traduções disponibilizadas neste repositório estão licenciadas sob a **Cr
 - Adaptar — remixar, transformar e criar a partir das traduções;
 
 **Desde que:**
-- Dê o devido **crédito** ao repositório e aos criadores originais;
-- **Não utilize** as traduções para fins **comerciais**.
+- Você dê o devido crédito ao repositório e aos criadores originais;
+- Não utilize as traduções para fins comerciais.
 
 ## Direitos Autorais e Restrição de Uso
-- **Os sprites e conteúdos originais pertencem aos seus respectivos criadores** e podem ter suas próprias regras de uso.
+- Os sprites e conteúdos originais pertencem aos seus respectivos criadores e podem ter suas próprias regras de uso.
 - Esta licença **se aplica apenas às traduções** realizadas neste repositório.
 - Se um autor original solicitar a remoção de sua obra traduzida, o conteúdo será retirado.
