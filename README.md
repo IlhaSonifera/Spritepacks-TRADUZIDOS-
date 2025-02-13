@@ -27,7 +27,7 @@
 - #### Arquivos .zip contendo a maior parte ou todo o conteúdo do criador
 
 # ✦ 📁 Instalação
-- #### Baixe os spritepacks desejados na aba Releases
+- #### Acesse a aba "Releases" e baixe o spritepack desejado.
 - #### Abra os arquivos .zip com um programa que permita isso (Ex. Winrar, Winzip, 7zip)
 - #### Mova as pastas incluídas para o diretório do MAS e mescle-as com as existentes.
 - #### Abra o MAS e alegre a sua Monika com as novas opções!
