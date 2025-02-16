@@ -1,6 +1,6 @@
 # <p align="center">✦ Spritepacks TRADUZIDOS 🇧🇷</p>
 
-<p  align="center"><img src="https://github.com/user-attachments/assets/85efc5ae-86bc-4afb-8dbc-eababd6ce856" width="570" height="180" /></p>
+<p  align="center"><img src="https://github.com/user-attachments/assets/3b03ba7c-d162-4548-ba5a-4f65e7ec6680" width="570" height="180" /></p>
 
 ##### <p align="center">Arte feita por [shiro_burro](https://x.com/shiro_burro?t=LfPc_d3rNpHrdPVmngdz9g&s=09)</p>
 <p align="center">...</p>
