@@ -26,7 +26,7 @@
 - #### Créditos ao criador e tradutor;
 - #### Arquivos .zip contendo a maior parte ou todo o conteúdo do criador.
 - #### Conjuntos que variam desde salas até decorações de mesa e itens para a Monika.
-- 
+  
 # ✦ 📁 Instalação
 - #### Acesse a aba "Releases" e baixe o spritepack desejado;
 - #### Abra os arquivos .zip com um programa que permita isso (Ex. Winrar, Winzip, 7zip);
