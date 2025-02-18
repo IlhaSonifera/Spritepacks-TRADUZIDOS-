@@ -5,7 +5,7 @@
 
  # 📌About the translations:
 
- ### The translations provided here are made with the creators' consent. However, it is possible that I may not always deliver the content in the most accurate way. If you notice any errors, please let me know so I can correct them.
+ ### The translations provided here are made with the creators' consent. However, it is possible that I may not always deliver the content in the most accurate way. If you notice any mistakes, please let me know so I can correct them.
 - You can contact me via email (link in my profile) or on Reddit. If there are any issues, I will apologize and make the necessary corrections or removals as requested.
 
 <p align="center">⸻༻⭑༺⸻</p>
