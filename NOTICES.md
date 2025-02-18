@@ -11,5 +11,5 @@
 <p align="center">⸻༻⭑༺⸻</p>
 
  ### Peço também que ao fazer compartilhamento, respeitem o trabalho dos criadores e tradutores, reconhecendo seus esforços. Sempre que possível, mencione os responsáveis pelo conteúdo original e pela tradução.
-- Evite compartilhar links diretos para download, seja da versão traduzida ou não. Divulgue o post oficial ou o link do repositório, onde também estão disponíveis as informações públicas sobre os criadores e demais detalhes.
+- Evite compartilhar links diretos para download, seja da versão traduzida ou não. Divulgue o post oficial e/ou o link do repositório, onde também estão disponíveis as informações públicas sobre os criadores e demais detalhes.
  
