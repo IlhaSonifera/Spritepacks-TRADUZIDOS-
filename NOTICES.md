@@ -1,8 +1,3 @@
- # Olá! Algumas coisas importantes:
-
- ### Eu NÂO recomendo baixar qualquer coisa do diretório se a sua intenção for obter as traduções.
- ### Priorize a página Release, onde você pode baixar os spritepacks separadamente e em boa performace.
-
  # 📌 Sobre as Traduções:
 
  ### As traduções disponibilizadas aqui são feitas com o consentimento dos criadores. No entanto, é possível que nem sempre eu entregue o conteúdo da forma mais adequada. Caso perceba algum erro, por favor, me avise para que eu possa corrigi-lo.
