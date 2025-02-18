@@ -1,4 +1,4 @@
- # 📌 Sobre as Traduções:
+ # 📌 Sobre as traduções:
 
  ### As traduções disponibilizadas aqui são feitas com o consentimento dos criadores. No entanto, é possível que nem sempre eu entregue o conteúdo da forma mais adequada. Caso perceba algum erro, por favor, me avise para que eu possa corrigi-lo.
 - Entre em contato comigo por e-mail (link no meu perfil) ou pelo Reddit. Caso haja qualquer problema, pedirei desculpas e farei as devidas correções ou remoções conforme solicitado.
